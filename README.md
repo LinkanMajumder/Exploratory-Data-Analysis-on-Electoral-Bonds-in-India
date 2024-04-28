@@ -1,7 +1,5 @@
 # Exploratory Data Analysis of Electoral Bonds in India
 
-An in-depth analysis of Electoral Bonds in India from FY 2019 to FY 2024, revealing patterns and trends in political funding dynamics.
-
 This dataset provides details on transactions involving electoral bonds, a mechanism for anonymous political donations in India, handled by the State Bank of India (SBI). Information includes buyer identities, donation types (individual or firm), and encashment details by political parties.
 
 **Data Exploration**
