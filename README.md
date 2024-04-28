@@ -15,6 +15,7 @@ Jupyter Notebook was used to analyze the data, revealing trends in funding patte
 * **Bond Amount**: Face value of the electoral bonds.
 
 **Analysis of Bond Buyers**
+![output1](https://github.com/LinkanMajumder/Exploratory-Data-Analysis-of-Electoral-Bonds-in-India/assets/66352815/20ae46b5-6f6d-42e9-83b0-b2cf1e39fe67)
 
 * **Unique Buyers**: 1314 individuals and firms participated in bond purchases.
 * **Donor Breakdown**: Firms dominated purchases (938), followed by individuals (365).
@@ -25,6 +26,8 @@ Jupyter Notebook was used to analyze the data, revealing trends in funding patte
     * 'AGARWAL' Entities - Total purchases of ₹179,082,000
 
 **Analysis of Encashment Data**
+![output](https://github.com/LinkanMajumder/Exploratory-Data-Analysis-of-Electoral-Bonds-in-India/assets/66352815/29f18787-9f47-4f2f-ac81-d200d895d35a)
+
 
 * **Unique Political Parties**: The dataset covers transactions involving 27 political parties.
 * **Top Recipient**: BHARATIYA JANATA PARTY received the most donations (₹60,605,110,000).
