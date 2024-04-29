@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of Electoral Bonds in India
+# Exploratory Data Analysis on Electoral Bonds in India
 
 This dataset provides details on transactions involving electoral bonds, a mechanism for anonymous political donations in India, handled by the State Bank of India (SBI). Information includes buyer identities, donation types (individual or firm), and encashment details by political parties.
 
